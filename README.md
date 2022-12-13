@@ -17,7 +17,7 @@
 
 </div>
 
-<div align="center">
+<div align="center"> 
 <br />
 
 [![Project license](https://img.shields.io/github/license/100Devs-ADHD/think-big.svg?style=flat-square)](LICENSE)
