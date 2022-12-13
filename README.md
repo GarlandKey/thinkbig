@@ -79,9 +79,9 @@ This repository requires the use of [`npm`](https://github.com/npm/cli). You can
 ### **Installation**
 
 To install the required packages & dependencies:
-```BASH
-npm i
-```
+
+### `npm i`
+
 ### **Usage**
 
 ### `npm start`
@@ -111,20 +111,20 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### **Commiting Code**
 
-This repo has a hook workflow to assist in the generation of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). When you wish to commit, please run the `git commit` command from the terminal and not the GUI. You will be prompted for information to build the commit. After you complete the prompts, the commit message will be opened in the designated editor in your `git` settings for you to preview before the code is committed.
+When leaving commits, please give a detailed description of what changes were made and where.
 
-If you don't want to constantly get stuck in `vi` hell, follow [these instructions](https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git) to change the default editor that `git` uses.
+### `git commit -m "Author: ..." -m "Date: ..." -m "Description: ..."`
 
 <br/>
 
 ### **Branch naming & pull requests**
 
-This repo is set up to not allow any commits to be pushed directly to the `main` or `develop` branches.
+This repo is set up to not allow any commits to be pushed directly to the `main` or `dev` branches.
 
 Create a new branch using the format `YourUserName/very-short-description`.
-When you're ready to submit a pull request, you will want to merge it in to `develop`. Ideally, this pull request will correspond with one or more [Issues](https://github.com/100Devs-ADHD/think-big/issues).
+When you're ready to submit a pull request, you will want to merge it in to `dev`. Ideally, this pull request will correspond with one or more [Issues](https://github.com/100Devs-ADHD/thinkBig/issues).
 
-We will submit pull requests from `develop` to `main` when we have enough meaningful changes committed.
+We will submit pull requests from `dev` to `main` when we have enough meaningful changes committed.
 
 <br/>
 
