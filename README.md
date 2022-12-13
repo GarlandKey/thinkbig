@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/100Devs-ADHD/think-big">
+  <a href="https://github.com/100Devs-ADHD/thinkBig">
     <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/thinkbig-logo.svg" alt="thinkBig" width="850" >
   </a>
 </h1>
@@ -11,11 +11,9 @@
 <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-1.webp" title="Prototype Classes Page" width="250px"> <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-2.webp" title="Prototype Classes Page" width="250px"> <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig/readme-md/thinkbig-screenshot-3.webp" title="Prototype Calendar" width="250px">
 <br />
 <br />
-<a href="https://github.com/100Devs-ADHD/think-big/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+<a href="https://github.com/100Devs-ADHD/thinkBig/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
 ·
-<a href="https://github.com/100Devs-ADHD/think-big/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-·
-<a href="https://github.com/100Devs-ADHD/think-big/discussions">Ask a Question</a>
+<a href="https://github.com/100Devs-ADHD/thinkBig/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
 
 </div>
 
