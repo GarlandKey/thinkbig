@@ -167,7 +167,7 @@ Together, we can make thinkBig **better**!
 
 ## Authors & contributors
 
-The original setup of this repository is by [100Devs](https://github.com/100Devs-ADHD).
+The original setup of this repository is by the [100Devs ADHD Study Group](https://github.com/100Devs-ADHD).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/100Devs-ADHD/thinkBig/contributors).
 
