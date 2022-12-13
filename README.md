@@ -146,8 +146,8 @@ See the [open issues](https://github.com/100Devs-ADHD/thinkBig/issues) for a lis
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**. If you're on the 100Devs team and are interested in contributing to this project, you may reach out via Discord:
 
-  [GarlandKey](Discordapp.com/users/297864485996068864)
-  [bananasplitlady](Discordapp.com/users/242836394488233995)
+  - [GarlandKey](Discordapp.com/users/297864485996068864)
+  - [bananasplitlady](Discordapp.com/users/242836394488233995)
 
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
