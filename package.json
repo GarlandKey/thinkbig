@@ -19,7 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.5"
+    "@babel/core": "^7.20.5",
+    "babel-loader": "^9.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
