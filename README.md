@@ -36,8 +36,8 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Commiting Code](#commiting-code)
-  - [Branch naming & pull requests](#branch-naming--pull-requests)
+  - [Committing Code](#committing-code)
+  - [Branch Naming & Pull Requests](#branch-naming--pull-requests)
 - [Roadmap](#roadmap)
 - [Support](#support)
   - [Contributing](#contributing)
@@ -107,7 +107,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 <br/>
 
-### **Commiting Code**
+### **Committing Code**
 
 When leaving commits, please give a detailed description of what changes were made and where.
 
@@ -115,7 +115,7 @@ When leaving commits, please give a detailed description of what changes were ma
 
 <br/>
 
-### **Branch naming & pull requests**
+### **Branch Naming & Pull Requests**
 
 This repo is set up to not allow any commits to be pushed directly to the `main` or `dev` branches.
 
@@ -167,7 +167,7 @@ Together, we can make thinkBig **better**!
 
 ## Authors & contributors
 
-The original setup of this repository is by [100Devs](https://github.com/100Devs-ADHD).
+The original setup of this repository is by the [100Devs ADHD Study Group](https://github.com/100Devs-ADHD).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/100Devs-ADHD/thinkBig/contributors).
 
