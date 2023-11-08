@@ -1,3 +1,5 @@
+// /backend/src/config/index.js
+
 import { connect } from 'mongoose';
 
 const connectMongoDB = () => {

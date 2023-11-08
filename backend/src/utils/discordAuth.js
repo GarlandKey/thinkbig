@@ -1,3 +1,5 @@
+// /backend/src/utils/discordAuth.js
+
 import passport from 'passport';
 import { Strategy as DiscordStrategy } from 'passport-discord';
 import User from '../models/userModel.js';
