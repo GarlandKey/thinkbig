@@ -2,8 +2,8 @@ import 'dotenv/config';
 import express from 'express';
 import session from 'express-session';
 import passport from 'passport';
-import { connectMongoDB } from './config/index.js';
-import authRoutes from './routes/authRoutes.js';
+import connectMongoDB from './src/config/index.js';
+import authRoutes from './src/routes/authRoutes.js';
 
 const PORT = process.env.PORT;
 const app = express();
